@@ -1,0 +1,7 @@
+(.devops) gamal@192:~/Project4-ML-predictor# ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
